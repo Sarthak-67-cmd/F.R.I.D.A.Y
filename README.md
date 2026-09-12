@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com" width="700" alt="Stark HUD Security Protocol"/>
+  <img src="https://githubusercontent.com" width="700" alt="Stark HUD Security Protocol"/>
 </p>
 
 # 🦾 Project F.R.I.D.A.Y. - Lab Sentry System
