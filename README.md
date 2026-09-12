@@ -4,7 +4,7 @@
 
 # 🦾 Project F.R.I.D.A.Y. — Perimeter Lab Sentry
 
-Welcome to the **F.R.I.D.A.Y. (Female Replacement Intelligent Digital Assistant Youth)** offline perimeter tracking node. 
+Welcome to the **F.R.I.D.A.Y. ** offline perimeter tracking node. 
 
 This repository houses an **air-gapped, high-performance computer vision security framework** designed to monitor local terminal coordinates completely offline. By utilizing native digital signal and color-matrix segmentation, it successfully registers authorized personnel while safely logging unknown threats without demanding heavy network dependencies.
 
