@@ -54,5 +54,5 @@ python F.R.I.D.A.Y.py
 ---
 
 <p align="center">
-  <b>Stark Industries Laboratory • Secure Code Network Protection</b>
+  <b>Sakhare Industries Laboratory • Secure Code Network Protection</b>
 </p>
